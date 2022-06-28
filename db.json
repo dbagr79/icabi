@@ -6,7 +6,7 @@
       "version": {
         "name": "1"
       },
-      "status": "ok",
+      "status": "not-ok",
       "completedAt": 1655535601760
     }, {
       "appId": "ffe3d2eb-a2da-44f1-89b6-541bb5818984",
